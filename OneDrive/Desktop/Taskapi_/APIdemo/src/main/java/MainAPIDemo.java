@@ -1,4 +1,4 @@
-package com.example.restapi;
+//package APIdemo;
 
 import java.io.IOException;
 import java.io.InputStream;
